@@ -1,9 +1,5 @@
 # Version Control Free Resources
 
-[![Black Friday](https://file.labex.io/images/labex-bf24.png)](https://labex.io/pricing)
-
-> [Black Friday 2024 & Cyber Monday 2024 Deals](https://labex.io/pricing) | Best Price of the Year
-
 🔄 Master the art of code management with our Version Control Vault! This repository provides a wealth of free resources and hands-on learning opportunities focused on version control systems. Essential for developers looking to streamline their workflow and collaborate effectively on software projects.
 
 ## Resources
